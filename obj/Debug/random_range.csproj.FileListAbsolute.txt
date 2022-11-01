@@ -1,8 +1,0 @@
-F:\random_range\random_range\bin\Debug\random_range.exe.config
-F:\random_range\random_range\bin\Debug\random_range.exe
-F:\random_range\random_range\bin\Debug\random_range.pdb
-F:\random_range\random_range\obj\Debug\random_range.csproj.AssemblyReference.cache
-F:\random_range\random_range\obj\Debug\random_range.csproj.SuggestedBindingRedirects.cache
-F:\random_range\random_range\obj\Debug\random_range.csproj.CoreCompileInputs.cache
-F:\random_range\random_range\obj\Debug\random_range.exe
-F:\random_range\random_range\obj\Debug\random_range.pdb
